@@ -1,0 +1,13 @@
+h3,
+h1 {
+	font-family: "Montserrat", sans-serif;
+}
+
+.garis {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 2px solid #28a745;
+	margin: 1em 0;
+	padding: 0;
+}
