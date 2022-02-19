@@ -18,3 +18,7 @@ My first freelance project, I don't know if it's good enough, but I'm quite happ
 
 ---------
 [DOKUMENTASI APLIKASI](https://drive.google.com/drive/folders/18qK3itec2rc2jecLRAbeex2eyli076K7?usp=sharing)
+---------
+
+please contact me at muhammadfirdauszulkarnain03@gmail.com for the controllers and database
+
