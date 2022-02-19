@@ -15,3 +15,6 @@ My first freelance project, I don't know if it's good enough, but I'm quite happ
 - [Trix Editor](https://github.com/basecamp/trix)
 - [Toastr Notif](https://github.com/CodeSeven/toastr)
 - [Bootstrap FileStyle](https://markusslima.github.io/bootstrap-filestyle/)
+
+---------
+[DOKUMENTASI APLIKASI](https://drive.google.com/drive/folders/18qK3itec2rc2jecLRAbeex2eyli076K7?usp=sharing)
