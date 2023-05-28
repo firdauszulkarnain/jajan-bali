@@ -1,6 +1,9 @@
 Sistem Informasi pemesanan jajanan bali menggunakan CodeIgniter 3
 ---------
-My first freelance project, I don't know if it's good enough, but I'm quite happy to be able to make this project
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## Teknologi
 
@@ -16,9 +19,7 @@ My first freelance project, I don't know if it's good enough, but I'm quite happ
 - [Toastr Notif](https://github.com/CodeSeven/toastr)
 - [Bootstrap FileStyle](https://markusslima.github.io/bootstrap-filestyle/)
 
----------
-[DOKUMENTASI APLIKASI](https://drive.google.com/drive/folders/18qK3itec2rc2jecLRAbeex2eyli076K7?usp=sharing)
----------
 
-please contact me at muhammadfirdauszulkarnain03@gmail.com for the controllers and database
+## DOKUMENTASI
 
+![2  Shop _ Jaje Bali](https://github.com/firdauszulkarnain/jajan-bali/assets/67721580/06504d28-05d1-4fb7-a07c-97a64501f47e)
